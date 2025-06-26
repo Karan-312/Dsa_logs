@@ -1,0 +1,2 @@
+1).This is the folder which contains all the easy questions of arrays 
+2).This series is based on striver's DSA sheet //https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
