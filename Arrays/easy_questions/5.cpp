@@ -1,8 +1,8 @@
 //left rotate array by one 
 
-time complexity -> o(n)
-time complexity -> o(1)->auxillary spac.comp
-                -> o(N)->overall spac.comp
+// time complexity -> o(n)
+// time complexity -> o(1)->auxillary spac.comp
+//                 -> o(N)->overall spac.comp
 
 
 
